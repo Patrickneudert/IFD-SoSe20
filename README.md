@@ -1,4 +1,5 @@
 # IFD-WiSe20-21
 
-## Aufgabe 1:
-<a href="https://Patrickneudert.github.io/IFD-WiSe20-21/task0/Instagram-Screens.pdf"> SWOT-Analyse</a>
+## Aufgabe 0:
+<a href="https://patrickneudert.github.io/IFD-WiSe20-21/Task0/Instagram-Screens.pdf"> SWOT-Analyse PDF</a>
+<a href="https://patrickneudert.github.io/IFD-WiSe20-21/Task0/Instagram-Prototyp.mp4"> SWOT-Analyse Instagram Post Carousel Video</a>
