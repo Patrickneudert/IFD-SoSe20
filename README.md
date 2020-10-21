@@ -4,6 +4,7 @@
 <p> Inspiration: Gunnar Stahl (Analoger Fotograf) <br> Technische Umsetzung: Adobe XD, Adobe InDesign </p>
 
 ## Aufgabe 1 - The Wallet Project
+<a href="https://patrickneudert.github.io/IFD-WiSe20-21/Task1/Wallet.pdf"> The Wallet Project PDF</a> <br>
 
 ## Aufgabe 2
 
