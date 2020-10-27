@@ -8,7 +8,6 @@
 
 ## Aufgabe 2 - Prototyping Tool 
 <a href="https://piazeller.github.io/IFDWiSe20-21/A02/A02.html"> 2.1 Adobe XD Analyse <br>
-<a href="https://patrickneudert.github.io/IFD-WiSe20-21/Task0/Aufgabe2.1.pdf"> 2.1 Beispiele aus Adobe XD PDF <br>
 <a href="https://patrickneudert.github.io/IFD-WiSe20-21/Task0/kurs.pdf"> 2.2 Gui - Konzeptentwurt 
   
   
