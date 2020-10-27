@@ -8,7 +8,7 @@
 
 ## Aufgabe 2 - Prototyping Tool 
 <a href="https://patrickneudert.github.io/IFD-WiSe20-21/Task0/Aufgabe2.1.pdf"> 2.1 Beispiele aus Adobe XD PDF <br>
-<a href="https://patrickneudert.github.io/IFD-WiSe20-21/Task0/xxx"> 2.2 Gui - Konzeptentwurt 
+<a href="https://patrickneudert.github.io/IFD-WiSe20-21/Task0/kurs.pdf"> 2.2 Gui - Konzeptentwurt 
   
   
 
