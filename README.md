@@ -11,7 +11,7 @@
 <a href="https://patrickneudert.github.io/IFD-WiSe20-21/Task0/kurs.pdf"> 2.2 Gui - Konzeptentwurt 
   
 ## Aufgabe 3 - GUI
-<a href="https://xd.adobe.com/view/b012cc91-b4f6-4071-8e99-14de77140228-e541/?fullscreen&hints=off"> 3.0 DM Intranet </a>
+<a href="https://xd.adobe.com/view/b012cc91-b4f6-4071-8e99-14de77140228-e541/?fullscreen&hints=off"> 3.0 GUI - DM Intranet </a>
   
   
 
