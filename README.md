@@ -15,6 +15,6 @@
   
 ## Aufgabe 4 - VUI - Konzept
 <a href="https://patrickneudert.github.io/IFD-WiSe20-21/Task0/kurs.pdf"> 4.0 VUI - Sprachassistent Odin </a>  
-<a href="https://patrickneudert.github.io/IFD-WiSe20-21/Task0/kurs.pdf"> 4.0 VUI - Ideen (PDF) </a>  
+<a href="https://patrickneudert.github.io/IFD-WiSe20-21/Task0/kurs.pdf"> 4.0 VUI - Idee (PDF) </a>  
 
 
