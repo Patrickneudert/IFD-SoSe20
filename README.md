@@ -14,7 +14,7 @@
 <a href="https://xd.adobe.com/view/b012cc91-b4f6-4071-8e99-14de77140228-e541/?fullscreen&hints=off"> 3.0 GUI - DM Intranet </a>
   
 ## Aufgabe 4 - VUI - Konzept
-<a href="https://patrickneudert.github.io/IFD-WiSe20-21/Task0/kurs.pdf"> 4.0 VUI - Sprachassistent Odin </a>  
-<a href="https://patrickneudert.github.io/IFD-WiSe20-21/Task0/kurs.pdf"> 4.0 VUI - Idee (PDF) </a>  
+<a href="https://patrickneudert.github.io/IFD-WiSe20-21/Task0/NewFlow.pdf"> 4.0 VUI - Sprachassistent Odin </a>  
+<a href="https://patrickneudert.github.io/IFD-WiSe20-21/Task0/task4.pdf"> 4.0 VUI - Idee (PDF) </a>  
 
 
