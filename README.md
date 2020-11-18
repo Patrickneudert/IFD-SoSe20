@@ -8,9 +8,9 @@
 
 ## Aufgabe 2 - Prototyping Tool 
 <a href="https://piazeller.github.io/IFDWiSe20-21/A02/A02.html"> 2.1 Adobe XD Analyse <br>
-<a href="https://patrickneudert.github.io/IFD-WiSe20-21/Task0/kurs.pdf"> 2.2 Gui - Konzeptentwurt 
+<a href="https://patrickneudert.github.io/IFD-WiSe20-21/Task0/kurs.pdf"> 2.2 Gui - Konzeptentwurf 
   
-## Aufgabe 3 - GUI
+## Aufgabe 3 - GUI - Interaktiv mit AdobeXD erstellt
 <a href="https://xd.adobe.com/view/b012cc91-b4f6-4071-8e99-14de77140228-e541/?fullscreen&hints=off"> 3.0 GUI - DM Intranet </a>
   
 ## Aufgabe 4 - VUI - Konzept
