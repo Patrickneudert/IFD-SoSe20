@@ -1,10 +1,10 @@
 ## Aufgabe 0 - Hygieneregeln
-<a href="https://patrickneudert.github.io/IFD-WiSe20-21/Task0/Instagram-Screens.pdf"> SWOT-Analyse PDF</a> <br>
-<a href="https://patrickneudert.github.io/IFD-WiSe20-21/Task0/Instagram-Prototyp.mp4"> SWOT-Analyse Instagram Post Carousel Video</a>
+<a href="https://patrickneudert.github.io/IFD-WiSe20-21/Task0/Instagram-Screens.pdf"> 0.1 SWOT-Analyse PDF</a> <br>
+<a href="https://patrickneudert.github.io/IFD-WiSe20-21/Task0/Instagram-Prototyp.mp4"> 0.2 SWOT-Analyse Instagram Post Carousel Video</a>
 <p> Inspiration: Gunnar Stahl (Analoger Fotograf) <br> Technische Umsetzung: Adobe XD, Adobe InDesign </p>
 
 ## Aufgabe 1 - The Wallet Project
-<a href="https://patrickneudert.github.io/IFD-WiSe20-21/Task0/Wallet.pdf"> The Wallet Project PDF</a>
+<a href="https://patrickneudert.github.io/IFD-WiSe20-21/Task0/Wallet.pdf"> 1.0 The Wallet Project PDF</a>
 
 ## Aufgabe 2 - Prototyping Tool 
 <a href="https://piazeller.github.io/IFDWiSe20-21/A02/A02.html"> 2.1 Adobe XD Analyse <br>
