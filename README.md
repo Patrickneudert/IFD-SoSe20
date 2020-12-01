@@ -15,9 +15,9 @@
   
 ## Aufgabe 4 - VUI - Konzept
 <a href="https://patrickneudert.github.io/IFD-WiSe20-21/Task0/NewFlow.pdf"> 4.0 VUI - Sprachassistent Odin </a> <br>
-<a href="https://patrickneudert.github.io/IFD-WiSe20-21/Task0/task4.pdf"> 4.0 VUI - Idee (PDF) </a> 
+<a href="https://patrickneudert.github.io/IFD-WiSe20-21/Task0/task4.pdf"> 4.0 VUI - Idee PDF </a> 
 
-## Aufgabe 5 - VUI - Prototyp
+## Aufgabe 5 - VUI - Prototyp mit Adobe xD erstellt
 <a href="https://xd.adobe.com"> 5.0 VUI - Sprachassistent <a/> <br>
 <a href="https://patrickneudert.github.io/IFD-WiSe20-21/Task0/.pdf"> 5.1 VUI - Screencast </a> <br>
 <a href="https://patrickneudert.github.io/IFD-WiSe20-21/Task0/.pdf"> 5.2 VUI - Dokumentation PDF</a>
