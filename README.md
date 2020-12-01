@@ -14,12 +14,12 @@
 <a href="https://xd.adobe.com/view/b012cc91-b4f6-4071-8e99-14de77140228-e541/?fullscreen&hints=off"> 3.0 GUI - DM Intranet </a>
   
 ## Aufgabe 4 - VUI - Konzept
-<a href="https://patrickneudert.github.io/IFD-WiSe20-21/Task0/NewFlow.pdf"> 4.0 VUI - Sprachassistent Odin </a>  
+<a href="https://patrickneudert.github.io/IFD-WiSe20-21/Task0/NewFlow.pdf"> 4.0 VUI - Sprachassistent Odin </a> <br>
 <a href="https://patrickneudert.github.io/IFD-WiSe20-21/Task0/task4.pdf"> 4.0 VUI - Idee (PDF) </a> 
 
 ## Aufgabe 5 - VUI - Prototyp
-<a href="https://xd.adobe.com"> 5.0 VUI - Sprachassistent <a/>
-<a href="https://patrickneudert.github.io/IFD-WiSe20-21/Task0/.pdf"> 5.1 VUI - Screencast </a>
+<a href="https://xd.adobe.com"> 5.0 VUI - Sprachassistent <a/> <br>
+<a href="https://patrickneudert.github.io/IFD-WiSe20-21/Task0/.pdf"> 5.1 VUI - Screencast </a> <br>
 <a href="https://patrickneudert.github.io/IFD-WiSe20-21/Task0/.pdf"> 5.2 VUI - Dokumentation PDF</a>
  
   
