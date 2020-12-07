@@ -22,7 +22,7 @@
 <a href="https://youtu.be/skdDKuffGCA"> 5.2 VUI - Screencast </a> <br>
 <a href="https://patrickneudert.github.io/IFD-WiSe20-21/Task0/VUI_Prototyp_Doku.pdf"> 5.3 VUI - Dokumentation PDF</a>
  
- ## Aufgabe 6 - Mixed Reality - VR - Brille
+## Aufgabe 6 - Mixed Reality - VR - Brille
  <a href="https://patrickneudert.github.io/IFD-WiSe20-21/Task0/Vr.md"> 6.0 VR - Brille - Dokumentation </a> <br>
 
 
