@@ -23,4 +23,4 @@ erstellt von [Patrick Neudert](https://github.com/Patrickneudert)
 
 ## Schritt 6: Test der Funktionalität der VR-Brille an Pia
 
-[Beispiele:](6.jpg)
+![Beispiel](6.jpg)
