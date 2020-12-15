@@ -25,4 +25,5 @@
 ## Aufgabe 6 - Mixed Reality - VR - Brille
  <a href="https://patrickneudert.github.io/IFD-WiSe20-21/Task0/Vr.html"> 6.0 VR - Brille - Dokumentation </a> <br>
 
-
+## Aufgabe 7 - Mixed Reality + HMD (Konzept)
+ <a href="https://patrickneudert.github.io/IFD-WiSe20-21/Task0/Vr-Storyboard.html"> 7.0 Storyboard & Video Konzept </a> <br>
