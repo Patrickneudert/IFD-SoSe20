@@ -24,7 +24,7 @@ Dank des Uhrzeit-Buttons kann Max bequem und einfach jederzeit die aktuelle Uhrz
 ### Wichtiger Inhalt
 Durch den Sternchen-Button gelingt es Max wichtige Inhalte schnell und problemlos zu speichern, damit er jederzeit auf diese Stelle im Video zurückgreifen kann.
 
-##Ziel:
+## Ziel:
 Ziel ist die technische Umsetzung mittels diverser Tools, um aus dem Video-Prototypen und dem bisherigen Konzept eine funktionstüchtige Interaktionsmöglichkeit zu kreieren.
 
 
