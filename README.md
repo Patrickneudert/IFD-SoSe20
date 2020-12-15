@@ -28,6 +28,6 @@
 ## Aufgabe 7 - Mixed Reality + HMD (Konzept)
  <a href="https://patrickneudert.github.io/IFD-WiSe20-21/Task0/VR-Storyboard.html"> 7.0 VR - Dokumentation </a> <br>
  <a href="https://patrickneudert.github.io/IFD-WiSe20-21/Task0/story.pdf"> 7.0 VR - Storyboard </a> <br>
- <a href=""> 7.0 VR - Video-Prototyp </a> <br>
+ <a href="https://youtu.be/3tbL08Naz7I"> 7.0 VR - Video-Prototyp </a> <br>
  
  
