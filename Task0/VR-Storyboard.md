@@ -1,6 +1,7 @@
-# Aufgabe 7: Mixed Reality + HMD (Konzept)
+# Aufgabe 7: Dokumentation: Mixed Reality + HMD (Konzept)
 
 erstellt von [Patrick Neudert](https://github.com/Patrickneudert)
+
 ## Ausgangspunkt:
 Auf Grundlage des kurzen Vorlesungsvideos: Microinteractions, soll die VR-Brille dem User weitere Interaktionsmöglichkeiten bieten können.
 
@@ -25,9 +26,5 @@ Durch den Sternchen-Button gelingt es Max wichtige Inhalte schnell und problemlo
 
 ##Ziel:
 Ziel ist die technische Umsetzung mittels diverser Tools, um aus dem Video-Prototypen und dem bisherigen Konzept eine funktionstüchtige Interaktionsmöglichkeit zu kreieren.
-
-## Storyboard
-
-[Beispiele:](story.pdf)
 
 
