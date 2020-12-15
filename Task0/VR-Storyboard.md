@@ -28,6 +28,6 @@ Ziel ist die technische Umsetzung mittels diverser Tools, um aus dem Video-Proto
 
 ## Storyboard
 
-[Beispiele:](7.jpg)
+[Beispiele:](story.pdf)
 
-## Video-Konzept
+
