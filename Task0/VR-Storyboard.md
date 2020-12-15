@@ -27,4 +27,11 @@ Durch den Sternchen-Button gelingt es Max wichtige Inhalte schnell und problemlo
 ## Ziel:
 Ziel ist die technische Umsetzung mittels diverser Tools, um aus dem Video-Prototypen und dem bisherigen Konzept eine funktionstüchtige Interaktionsmöglichkeit zu kreieren.
 
+## Video-Konzept:
+1. Das Video habe ich im Browser geöffnet, um es anschließend mit Hilfe des Tools OBS parallel aufzeichnen zu können. 
+2. Nebenbei habe ich mir die ersten Gedanken zu den Icons gemacht, die ich über Flaticon downloaden konnte. 
+3. Import aller Dateien in Adobe Premiere. 
+4. Mit Adobe Premiere versuchte mich daran die Inhalte am Video meiner Meinung nach logisch zu platzieren und am HFU-Grün anzupassen. 
+5. Das fertige Video-Konzept können Sie auf meinem GitHub Repo via. Youtube ansehen 
 
+Bei Rückfragen stehe ich Ihnen jederzeit zur Verfügung.
