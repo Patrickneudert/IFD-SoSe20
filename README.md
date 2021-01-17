@@ -29,7 +29,7 @@
  <a href="https://patrickneudert.github.io/IFD-WiSe20-21/Task0/VR-Storyboard.html"> 7.0 VR - Dokumentation </a> <br>
  <a href="https://patrickneudert.github.io/IFD-WiSe20-21/Task0/story.pdf"> 7.0 VR - Storyboard </a> <br>
  <a href="https://youtu.be/3tbL08Naz7I"> 7.0 VR - Video-Prototyp </a> <br>
- <a href="https://app.draftxr.com/vr/ZVFCIb"> 7.0 - Adobe XD mit Draft XR Plug-In </a> <br>
+ <a href="https://app.draftxr.com/vr/ZVFCIb"> 7.0 VR - Adobe XD mit Draft XR Plug-In </a> <br>
  
  
  
