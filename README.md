@@ -2,7 +2,7 @@
 <h1>Tag der Medien 2021</h1>
   
 <h2>Aufgabe 0 - Hygieneregeln</h2>
-<a href="https://patrickneudert.github.io/IFD-WiSe20-21/Task0/Instagram-Screens.pdf"> 0.1 SWOT-Analyse PDF</a>
+<a href="https://patrickneudert.github.io/IFD-WiSe20-21/Task0/Instagram-Screens.pdf"> 0.1 SWOT-Analyse PDF</a> <br>
 <a href="https://patrickneudert.github.io/IFD-WiSe20-21/Task0/Instagram-Prototyp.mp4"> 0.2 SWOT-Analyse Instagram Post Carousel Video</a>
 <p> Inspiration: Gunnar Stahl (Analoger Fotograf) <br> Technische Umsetzung: Adobe XD, Adobe InDesign </p>
   
