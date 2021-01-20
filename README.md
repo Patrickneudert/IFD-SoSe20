@@ -1,29 +1,4 @@
-<!DOCTYPE html>
-<html>
-<head>
-<title> Tag der Medien: Interface Design - Patrick Neudert </title>
-<style>
-  html, body {
-  background-color: pink;
-  color: white;
-  font-size: large;
-  font-family: sans-serif;
-  }
-  
-  h1 {
-  color: black;
-  }
-  
-  a, p {
-  color: white;
-  text-decoration: none;
-  display: block;
-  }
-  
-</style>
-</head>
-<body>
-  
+
 <h1>Tag der Medien 2021</h1>
   
 <h2>Aufgabe 0 - Hygieneregeln</h2>
@@ -59,6 +34,3 @@
 <a href="https://youtu.be/3tbL08Naz7I"> 7.0 VR - Video-Prototyp </a> <br>
 <a href="https://app.draftxr.com/vr/ZVFCIb"> 7.0 VR - Adobe XD mit Draft XR Plug-In </a> <br>
    
-</body>
-</html>
-
